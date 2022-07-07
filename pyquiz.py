@@ -2,7 +2,7 @@ from quizmanager import QuizManager
 
 class QuizApp:
     # Please enter Quiz folder path
-    QUIZ_FOLDER = "C:\\Users\\admin\\Desktop\\DSA\\project1\\my quiz project\\Quizzes"
+    QUIZ_FOLDER = "Enter quiz folder path containing XML file"
 
     def __init__(self):
         self.username = ""
