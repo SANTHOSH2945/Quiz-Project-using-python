@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Geography!">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="4">What is the largest continent in the world?</QuestionText>
+        <Answer name="1">Russia</Answer>
+        <Answer name="2">Australia</Answer>
+        <Answer name="3">North america</Answer>
+        <Answer name="4">Asia</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="1">What is the largest cricket ground in the world?</QuestionText>
+        <Answer name="1">Ahmedabad(Narendra Modi cricket ground)</Answer>
+        <Answer name="2">Melborne</Answer>
+        <Answer name="3">Sidny</Answer>
+        <Answer name="4">Lords</Answer>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="2">Through which of the following north east states in India , the tropic of cancer passes?</QuestionText>
+        <Answer name="1">Tripura and Nagaland</Answer>
+        <Answer name="2">Tripura and Mizoram</Answer>
+        <Answer name="3">Meghalaya and Mizoram</Answer>
+        <Answer name="4">Assam and Tripura</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="t">Once upon a time dinosaurs lived on the earth!</QuestionText>
+    </Question>
+</QuizML>
